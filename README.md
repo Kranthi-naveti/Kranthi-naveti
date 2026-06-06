@@ -25,7 +25,6 @@ developer = {
     "location" : "",
     "education": "Bachelor of Technology (B.Tech) in Computer Science — Shri Vishnu Engineering College for Women",
     "focus"    : ["AI / ML", "Backend Systems", "Multi-Agent Architectures"],
-    "currently": "Building AI agents @ Upstride 🚀",
 }
 ```
 
@@ -82,14 +81,6 @@ developer = {
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kranthi-naveti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kranthi-naveti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kranthi-naveti&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
