@@ -24,7 +24,7 @@ developer = {
     "name"     : "Kranthi Naveti",
     "location" : "",
     "education": "Bachelor of Technology (B.Tech) in Computer Science — Shri Vishnu Engineering College for Women",
-    "focus"    : ["AI / ML", "Backend Systems", "Multi-Agent Architectures"],
+    "focus"    : ["AI / ML", "Backend Systems", "Multi-Agent Architectures","Web technologies"],
 }
 ```
 
