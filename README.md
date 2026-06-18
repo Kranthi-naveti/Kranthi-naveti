@@ -78,14 +78,12 @@ developer = {
 ![MobileNetV2](https://img.shields.io/badge/MobileNetV2-555555?style=for-the-badge)
 
 
----
-
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kranthi-naveti&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
+</div> -->
 
 ---
 
