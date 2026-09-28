@@ -1,124 +1,211 @@
-<div align="center">
+# Hi 👋, I'm Kranthi Naveti
 
-<div align="center">
+### 🤖 AI & Machine Learning Enthusiast | Software Engineer Aspirant
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Kranthi+Naveti;AIML+Student;Machine+Learning+Enthusiast;Welcome+to+my+GitHub!&center=true&width=800&height=50&color=6C63FF&vCenter=true&size=28">
+I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learning** at **Shri Vishnu Engineering College for Women**, with a CGPA of **9.08/10**.
 
-</div>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kranthi-naveti&color=6C63FF&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Kranthi-naveti?style=for-the-badge&color=6C63FF)](https://github.com/Kranthi-naveti)
-
-</div>
+I enjoy building **Machine Learning, Generative AI, RAG, and full-stack applications** and solving Data Structures & Algorithms problems.
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-> ML Engineer with 2 months of experience across Infosys startups prior to graduation, along with 3 projects. I've built scalable, data-driven systems, driven by a passion for system design. Building is what I do best — whether it's taking something from 0 to 1 or scaling it from 1 to 100.
-
-```python
-developer = {
-    "name"     : "Kranthi Naveti",
-    "location" : "",
-    "education": "Bachelor of Technology (B.Tech) in Computer Science — Shri Vishnu Engineering College for Women",
-    "focus"    : ["AI / ML", "Backend Systems", "Multi-Agent Architectures","Web technologies"],
-}
-```
+* 🎓 B.Tech in **Artificial Intelligence and Machine Learning**
+* 📊 CGPA: **9.08/10**
+* 💻 Solved **200+ DSA problems on LeetCode**
+* 🧠 Solved **200+ DSA problems on GeeksForGeeks**
+* 🔥 Maintained **50-day and 100-day coding streaks**
+* 🤖 Interested in **AI, Machine Learning, Generative AI and LLMs**
+* 🌱 Currently strengthening my **Software Engineering and AI skills**
+* ⚡ Quick Learner • Problem Solver • Adaptable
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Programming Languages
 
-**Frameworks & AI**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-555555?style=for-the-badge) ![Data Structures and Algorithms](https://img.shields.io/badge/Data+Structures+and+Algorithms-555555?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine+Learning-555555?style=for-the-badge) ![Natural Language Processing](https://img.shields.io/badge/Natural+Language+Processing-555555?style=for-the-badge)
+* Java
+* Python
+* JavaScript
+* SQL
 
-**Tools & Cloud**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-555555?style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS+Code-555555?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Frontend
 
----
+* React.js
+* HTML
+* CSS
 
-## 💼 Experience
+### Machine Learning & Data Science
 
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+* XGBoost
+* TensorFlow
+* Keras
+* OpenCV
 
-**AI Engineer Intern** @ **Upstride** &nbsp;|&nbsp; *Present*
-- Architecting multi-agent AI systems with CrewAI across 5+ specialized agents — 60% faster workflows
-- Building FastAPI microservices processing 100+ automated document requests daily
-- Developing LLM-powered automation pipelines eliminating 90% of manual HR effort
+### AI & Generative AI
 
-**Intern** @ **Infosys** &nbsp;|&nbsp; *Feb 2026 – Apr 2026*
-- Developed an XGBoost-based ML model for 500+ stocks, improving prediction accuracy by 12% compared to baseline models.
-- Prepared a Flask REST API handling 1000+ requests/day with low latency (≤200ms), enabling real-time stock predictions.
-- Implemented backtesting using RSI, MACD, and Moving Averages, improving trading strategy performance by 15%.
+* Generative AI
+* Prompt Engineering
+* LLM Fundamentals
+* Retrieval-Augmented Generation (RAG)
+* LangChain
+* Hugging Face
+* Sentence Transformers
+* ChromaDB
 
+### Backend & Databases
 
----
+* Flask
+* FastAPI
+* REST APIs
+* MongoDB
+* MySQL
 
-## 🚀 Projects
+### Tools
 
-
-#### 🔹 SignalAI – ML-Based Stock Signal Generation Platform
-> Developed a unified XGBoost-based ML model for 500+ stocks using Python and Flask.
-
-![XGBoost](https://img.shields.io/badge/XGBoost-555555?style=for-the-badge) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-555555?style=for-the-badge)
-
-#### 🔹 SMS Spam Detection
-> Created an SMS Spam Detection model using NLP techniques and Naive Bayes algorithms.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-555555?style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-555555?style=for-the-badge) ![NLTK](https://img.shields.io/badge/NLTK-555555?style=for-the-badge) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-555555?style=for-the-badge)
-
-#### 🔹 Automated Microscopic Blood Cell Analysis with MobileNetV2
-> Engineered a MobileNetV2-based model for classifying RBCs, WBCs, and Platelets in blood smears.
-
-![MobileNetV2](https://img.shields.io/badge/MobileNetV2-555555?style=for-the-badge)
-
-
-<!--## 📊 GitHub Stats
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kranthi-naveti&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div> -->
+* Git
+* GitHub
+* VS Code
+* Google Colab
+* Postman
 
 ---
 
-## 📈 Contribution Graph
+# 📌 Featured Projects
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kranthi-naveti&theme=tokyo-night&hide_border=true)](https://github.com/Krnathi-naveti))
+## 📈 SignalAI – ML-Based Stock Signal Generation Platform
 
----
+An ML-powered platform for generating stock trading signals and providing real-time analytics.
 
-## ⚡ Extracurricular
+### Tech Stack
 
-- ⚡ Participated in Cognizant technoverse Hackathon 2026
-- ⚡ Participated in SIH College-Level and GenAI Hackathons
-- ⚡ Club Coordinator-Mathelets Club
-- ⚡ Volleyball Player
+`Python` `XGBoost` `Scikit-learn` `Pandas` `NumPy` `yfinance` `Flask` `MongoDB` `React.js` `TypeScript` `Vite` `Tailwind CSS` `JWT`
 
----
+### Key Features
 
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kranthi-naveti-269809321/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kranthinaveti@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kranthi-naveti)
-
-</div>
+* Built an **XGBoost-based ML model** for 500+ stocks.
+* Achieved **65–75% prediction accuracy** for stock signal generation.
+* Developed a low-latency **Flask REST API (<200ms)**.
+* Built a React + TypeScript dashboard for real-time analytics.
+* Implemented backtesting using **RSI, MACD and Moving Averages**.
+* Added portfolio analytics and secure MongoDB + JWT architecture.
+* Integrated REST APIs for real-time AI prediction services.
 
 ---
 
-<div align="center">
+## 🔧 AI-Mechanic Assistant with RAG
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+A Retrieval-Augmented Generation application designed to provide context-aware responses for automotive diagnostics.
 
-*✨ Generated with ❤️ by Upstride AI Resume Builder*
+### Tech Stack
 
-</div>
+`Python` `FastAPI` `LangChain` `RAG` `ChromaDB` `Hugging Face` `Sentence Transformers` `MySQL` `React` `REST APIs` `LLMs`
+
+### Key Features
+
+* Built a **RAG pipeline** using LangChain and ChromaDB.
+* Implemented semantic document retrieval.
+* Used Hugging Face embeddings for knowledge retrieval.
+* Developed LLM-powered responses for automotive diagnostics.
+* Created vector database pipelines for efficient retrieval.
+* Designed prompts to improve response quality and contextual accuracy.
+
+---
+
+## 🩸 Automated Microscopic Blood Cell Analysis
+
+A computer vision project for automated classification of blood cells.
+
+### Tech Stack
+
+`Python` `TensorFlow` `Keras` `CNN` `OpenCV` `MobileNetV2`
+
+### Key Features
+
+* Built a **MobileNetV2-based image classification model**.
+* Achieved **92% accuracy** in classifying:
+
+  * 🔴 RBCs
+  * ⚪ WBCs
+  * 🩸 Platelets
+* Created an end-to-end pipeline for:
+
+  * Data preprocessing
+  * Model training
+  * Real-time prediction
+* Applied computer vision techniques for automated blood smear analysis.
+
+---
+
+# 💼 Experience
+
+## Machine Learning Intern
+
+**Feb 2026 – Apr 2026**
+
+* Developed an **XGBoost-based ML model for 500+ stocks**.
+* Improved prediction accuracy by **12% compared with baseline models**.
+* Implemented a Flask REST API handling **1,000+ requests/day**.
+* Achieved low API latency of **<200ms**.
+* Designed backtesting using **RSI, MACD and Moving Averages**.
+* Improved simulated trading strategy performance by **15%**.
+* Built REST API endpoints for AI model inference and automation workflows.
+
+---
+
+# 💻 Coding Profiles
+
+### LeetCode
+
+**200+ DSA Problems**
+
+### GeeksForGeeks
+
+**200+ DSA Problems**
+
+Focus areas include:
+
+`Arrays` `Strings` `Linked Lists` `Stacks` `Queues` `Trees` `Graphs` `Dynamic Programming` `Searching` `Sorting`
+
+---
+
+# 🏆 Achievements & Certifications
+
+* 🏅 Solved **200+ DSA problems on LeetCode**
+* 🔥 Maintained **50-day and 100-day coding streaks**
+* 🏆 Participated in **Cognizant Technoverse Hackathon 2026**
+* 📜 Completed **Java Programming Certification**
+
+---
+
+# 🎯 Current Goals
+
+I'm currently focusing on:
+
+* 💻 Software Engineering
+* 🤖 Machine Learning
+* 🧠 Generative AI
+* 🔍 Retrieval-Augmented Generation
+* 📚 Data Structures & Algorithms
+* ☁️ Building production-ready AI applications
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** [kranthinaveti@gmail.com](mailto:kranthinaveti@gmail.com)
+
+🔗 **LinkedIn:** [Kranthi Naveti](https://www.linkedin.com/in/kranthi-naveti/)
+
+💻 **GitHub:** [Kranthi-naveti](https://github.com/Kranthi-naveti)
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+If you find my projects interesting, feel free to explore my repositories and connect with me.
